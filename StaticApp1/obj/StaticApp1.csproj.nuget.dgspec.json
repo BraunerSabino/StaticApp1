@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\braun\\OneDrive\\Apps\\dotnet\\StaticApp1\\StaticApp1\\StaticApp1.csproj": {}
+    "c:\\Users\\braun\\OneDrive\\Apps\\dotnet\\StaticApp1\\StaticApp1\\StaticApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\braun\\OneDrive\\Apps\\dotnet\\StaticApp1\\StaticApp1\\StaticApp1.csproj": {
+    "c:\\Users\\braun\\OneDrive\\Apps\\dotnet\\StaticApp1\\StaticApp1\\StaticApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\braun\\OneDrive\\Apps\\dotnet\\StaticApp1\\StaticApp1\\StaticApp1.csproj",
+        "projectUniqueName": "c:\\Users\\braun\\OneDrive\\Apps\\dotnet\\StaticApp1\\StaticApp1\\StaticApp1.csproj",
         "projectName": "StaticApp1",
-        "projectPath": "C:\\Users\\braun\\OneDrive\\Apps\\dotnet\\StaticApp1\\StaticApp1\\StaticApp1.csproj",
+        "projectPath": "c:\\Users\\braun\\OneDrive\\Apps\\dotnet\\StaticApp1\\StaticApp1\\StaticApp1.csproj",
         "packagesPath": "C:\\Users\\braun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\braun\\OneDrive\\Apps\\dotnet\\StaticApp1\\StaticApp1\\obj\\",
+        "outputPath": "c:\\Users\\braun\\OneDrive\\Apps\\dotnet\\StaticApp1\\StaticApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\braun\\AppData\\Roaming\\NuGet\\NuGet.Config",

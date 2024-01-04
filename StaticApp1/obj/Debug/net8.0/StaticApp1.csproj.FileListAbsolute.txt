@@ -27,3 +27,4 @@ c:\Users\braun\OneDrive\Apps\dotnet\StaticApp1\StaticApp1\obj\Debug\net8.0\refin
 c:\Users\braun\OneDrive\Apps\dotnet\StaticApp1\StaticApp1\obj\Debug\net8.0\StaticApp1.pdb
 c:\Users\braun\OneDrive\Apps\dotnet\StaticApp1\StaticApp1\obj\Debug\net8.0\StaticApp1.genruntimeconfig.cache
 c:\Users\braun\OneDrive\Apps\dotnet\StaticApp1\StaticApp1\obj\Debug\net8.0\ref\StaticApp1.dll
+c:\Users\braun\OneDrive\Apps\dotnet\StaticApp1\StaticApp1\obj\Debug\net8.0\StaticApp1.sourcelink.json
